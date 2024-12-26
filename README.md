@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Junior Full Stack Developer<br><br>Project Manager turned into Full Stack Developer with passion for UI/UX and Design.<br><br>- 👴🏻I'm 32 years old<br>- 🇵🇹 From Portugal<br>- 🔭 I’m working on a side project "E-Code-Buddy v2.0"<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I try to enhance my skills<br>- 💖 Love for coding</p>
+<p align="left">Junior Full Stack Developer<br><br>Project Manager turned into Full Stack Developer with passion for UI/UX and Design.<br><br>- 👴🏻I'm 32 years old<br>- 🔭 I’m working on a side project "E-Code-Buddy v2.0"<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I try to enhance my skills<br>- 💖 Love for coding</p>
 
 ###
 
@@ -60,6 +60,12 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JorgeMCoelho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
