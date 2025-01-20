@@ -65,8 +65,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeMCoelho&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMCoelho&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=150" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeMCoelho&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMCoelho&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150" alt="streak graph"  />
 
 </div>
 
