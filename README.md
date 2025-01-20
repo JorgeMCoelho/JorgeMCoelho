@@ -65,17 +65,8 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeMCoelho" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeMCoelho&layout=compact&langs_count=8&card_width=250" />
-
-  
-</a>
-
   <img src="https://github-readme-stats.vercel.app/api?username=JorgeMCoelho&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMCoelho&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMCoelho&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=150" height="200" alt="streak graph"  />
 
 </div>
 
