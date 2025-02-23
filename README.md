@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Junior Full Stack Developer<br><br>Project Manager turned into Full Stack Developer with passion for UI/UX and Design.<br><br>- 👴🏻I'm 32 years old<br>- 🔭 I’m working on a side project "E-Code-Buddy v2.0"<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I try to enhance my skills<br>- 💖 Love for coding</p>
+<p align="left">Junior Full Stack Developer<br><br>Project Manager turned into Full Stack Developer with passion for UI/UX and Design.<br><br>- 👴🏻I'm 32 years old<br>- 🔭 I’m working on some side projects to master React"<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I try to enhance my skills<br>- 💖 Love for coding</p>
 
 ###
 
