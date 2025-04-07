@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="190" src="https://www.linkedin.com/in/jorge-coelho-dev/overlay/background-image/"  />
+  <img height="190" src="https://media.licdn.com/dms/image/v2/D4D16AQFIUhuriZsGuQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727201539654?e=1749686400&v=beta&t=eS34-ywRCA4fP29vZxbS6is6KMfqhCwLLyWh337LPxY"  />
 </div>
 
 ###
